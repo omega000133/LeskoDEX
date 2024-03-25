@@ -10,7 +10,7 @@
 * [Setup](#setup)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Contact](#contact)
+
 
 
 ## General Information
@@ -86,6 +86,5 @@ Room for improvement:
 - Get liquidity, migrate to AMM version
 - Improve UI and UX
 
-## Contact
-Created by [@LESKOV](https://www.linkedin.com/in/ivan-leskov-4b5664189/) - feel free to contact me!
+
 
